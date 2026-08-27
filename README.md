@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/bharath0990/Leet-Code-Problems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/bharath0990/Leet-Code-Problems/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bharath0990/Leet-Code-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [2574-left-and-right-sum-differences](https://github.com/bharath0990/Leet-Code-Problems/tree/master/2574-left-and-right-sum-differences) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/bharath0990/Leet-Code-Problems/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/bharath0990/Leet-Code-Problems/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Divide and Conquer
@@ -44,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/bharath0990/Leet-Code-Problems/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [2574-left-and-right-sum-differences](https://github.com/bharath0990/Leet-Code-Problems/tree/master/2574-left-and-right-sum-differences) |
 <!---LeetCode Topics End-->
