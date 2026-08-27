@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/bharath0990/Leet-Code-Problems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/bharath0990/Leet-Code-Problems/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bharath0990/Leet-Code-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1920-build-array-from-permutation](https://github.com/bharath0990/Leet-Code-Problems/tree/master/1920-build-array-from-permutation) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/bharath0990/Leet-Code-Problems/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2574-left-and-right-sum-differences](https://github.com/bharath0990/Leet-Code-Problems/tree/master/2574-left-and-right-sum-differences) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/bharath0990/Leet-Code-Problems/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
@@ -52,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2574-left-and-right-sum-differences](https://github.com/bharath0990/Leet-Code-Problems/tree/master/2574-left-and-right-sum-differences) |
+## Simulation
+|  |
+| ------- |
+| [1920-build-array-from-permutation](https://github.com/bharath0990/Leet-Code-Problems/tree/master/1920-build-array-from-permutation) |
 <!---LeetCode Topics End-->
