@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/bharath0990/Leet-Code-Problems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/bharath0990/Leet-Code-Problems/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bharath0990/Leet-Code-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/bharath0990/Leet-Code-Problems/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/bharath0990/Leet-Code-Problems/tree/master/0283-move-zeroes) |
 | [1512-number-of-good-pairs](https://github.com/bharath0990/Leet-Code-Problems/tree/master/1512-number-of-good-pairs) |
 | [1920-build-array-from-permutation](https://github.com/bharath0990/Leet-Code-Problems/tree/master/1920-build-array-from-permutation) |
@@ -69,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/bharath0990/Leet-Code-Problems/tree/master/0009-palindrome-number) |
 | [1512-number-of-good-pairs](https://github.com/bharath0990/Leet-Code-Problems/tree/master/1512-number-of-good-pairs) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/bharath0990/Leet-Code-Problems/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
