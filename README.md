@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/bharath0990/Leet-Code-Problems/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2574-left-and-right-sum-differences](https://github.com/bharath0990/Leet-Code-Problems/tree/master/2574-left-and-right-sum-differences) |
 | [2974-minimum-number-game](https://github.com/bharath0990/Leet-Code-Problems/tree/master/2974-minimum-number-game) |
+| [3162-find-the-number-of-good-pairs-i](https://github.com/bharath0990/Leet-Code-Problems/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/bharath0990/Leet-Code-Problems/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/bharath0990/Leet-Code-Problems/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Divide and Conquer
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/bharath0990/Leet-Code-Problems/tree/master/1512-number-of-good-pairs) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/bharath0990/Leet-Code-Problems/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [3162-find-the-number-of-good-pairs-i](https://github.com/bharath0990/Leet-Code-Problems/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/bharath0990/Leet-Code-Problems/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 ## Counting
 |  |
