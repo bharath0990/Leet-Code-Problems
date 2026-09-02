@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/bharath0990/Leet-Code-Problems/tree/master/1929-concatenation-of-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/bharath0990/Leet-Code-Problems/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2574-left-and-right-sum-differences](https://github.com/bharath0990/Leet-Code-Problems/tree/master/2574-left-and-right-sum-differences) |
+| [2974-minimum-number-game](https://github.com/bharath0990/Leet-Code-Problems/tree/master/2974-minimum-number-game) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/bharath0990/Leet-Code-Problems/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/bharath0990/Leet-Code-Problems/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Divide and Conquer
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [2974-minimum-number-game](https://github.com/bharath0990/Leet-Code-Problems/tree/master/2974-minimum-number-game) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/bharath0990/Leet-Code-Problems/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Hash Table
 |  |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/bharath0990/Leet-Code-Problems/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/bharath0990/Leet-Code-Problems/tree/master/1929-concatenation-of-array) |
+| [2974-minimum-number-game](https://github.com/bharath0990/Leet-Code-Problems/tree/master/2974-minimum-number-game) |
 ## Math
 |  |
 | ------- |
@@ -74,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/bharath0990/Leet-Code-Problems/tree/master/0136-single-number) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2974-minimum-number-game](https://github.com/bharath0990/Leet-Code-Problems/tree/master/2974-minimum-number-game) |
 <!---LeetCode Topics End-->
