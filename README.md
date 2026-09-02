@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/bharath0990/Leet-Code-Problems/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/bharath0990/Leet-Code-Problems/tree/master/0283-move-zeroes) |
 | [1512-number-of-good-pairs](https://github.com/bharath0990/Leet-Code-Problems/tree/master/1512-number-of-good-pairs) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/bharath0990/Leet-Code-Problems/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1920-build-array-from-permutation](https://github.com/bharath0990/Leet-Code-Problems/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/bharath0990/Leet-Code-Problems/tree/master/1929-concatenation-of-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/bharath0990/Leet-Code-Problems/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/bharath0990/Leet-Code-Problems/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2974-minimum-number-game](https://github.com/bharath0990/Leet-Code-Problems/tree/master/2974-minimum-number-game) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/bharath0990/Leet-Code-Problems/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Hash Table
@@ -83,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2974-minimum-number-game](https://github.com/bharath0990/Leet-Code-Problems/tree/master/2974-minimum-number-game) |
+## Quicksort
+|  |
+| ------- |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/bharath0990/Leet-Code-Problems/tree/master/1913-maximum-product-difference-between-two-pairs) |
 <!---LeetCode Topics End-->
